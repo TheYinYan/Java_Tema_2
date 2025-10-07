@@ -93,8 +93,7 @@ public class App {
         una sola sentencia de Java (con un ptintln())¿es posible?
         %n""");
 
-        char primeraLetra = 'a';
-        char ultimaLetra = 'z';
+        char primeraLetra = 'a', ultimaLetra = 'z';
         System.out.println(primeraLetra+""+ultimaLetra+"abcdario");
         System.out.printf("%n");
 
